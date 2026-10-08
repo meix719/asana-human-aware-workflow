@@ -56,3 +56,6 @@ This repository documents the workflow prototype as a portfolio case study.
 - Qunfeng Zhou
 - Mei Qiong Xue
 - Ishan Vaghani
+
+## My Contribution
+I worked on the workflow’s decision logic and risk-scoring model and developed the presentation outline to explain the problem, proposed solution, and intended business value.
