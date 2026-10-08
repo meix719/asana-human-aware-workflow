@@ -38,6 +38,16 @@ The workflow aims to help managers identify scheduling conflicts earlier, discus
 
 Reduced burnout and improved productivity are intended benefits, not measured outcomes established by this project.
 
+## Workflow Screenshots
+
+### Decision Logic
+![Workflow rules and risk-scoring logic](images/workflow-logic.png)
+
+### Live Demo
+![Live workflow demonstration, first view](images/workflow-demo-1.png)
+
+![Live workflow demonstration, second view](images/workflow-demo-2.png)
+
 ## Project Materials
 [View our team presentation](reports/asana-workflow-presentation.pdf)
 
